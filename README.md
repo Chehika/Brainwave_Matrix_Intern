@@ -33,3 +33,32 @@ Monthly Trends: Charted revenue trends over time.
 ## Outcome
 This analysis offers a snapshot of product popularity, seasonal performance, and geographical trends—essential for decision-making in retail.
 
+# Task 2: Sentiment Analysis
+Description
+This task classifies movie reviews as either positive or negative using machine learning. It demonstrates basic natural language processing using the TF-IDF approach and Logistic Regression.
+
+## Tools Utilized
+Python: Core programming language
+
+pandas: Data handling
+
+scikit-learn: Train-test splitting, TF-IDF vectorization, model building, evaluation
+
+matplotlib: Pie chart visualization
+
+## Key Steps
+Text Preprocessing: Loaded and labeled sentiment data (positive = 1, negative = 0).
+
+TF-IDF Vectorization: Converted text to numerical features.
+
+Model Training: Used Logistic Regression for classification.
+
+Evaluation: Assessed model accuracy using a classification report.
+
+Visualization: Displayed predicted sentiment distribution using a pie chart.
+
+## Outcome
+This task provides a foundational example of applying machine learning to unstructured data and understanding public sentiment based on text.
+
+## Conclusion
+This project demonstrates how Python can be effectively used for real-world data analytics across both structured and unstructured datasets. It offers hands-on experience with data cleaning, feature extraction, model building, and visualization—making it a practical learning resource for students or beginners aiming to enter the field of data science and analytics.
