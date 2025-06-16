@@ -1,7 +1,17 @@
 # Brainwave_Matrix_Intern
-# Sales Analysis- Task 1 
+
 ## Overview
-This project takes a transactional sales dataset from a commercial chocolate store and performs data cleaning, summarization, and visual analysis. It provides a complete snapshot of business performance, helping uncover trends and top-performing products using Python.
+
+This repository includes two beginner-friendly data analytics tasks that demonstrate the power of Python in deriving insights from real-world data:
+
+Task 1: Sales analysis of a chocolate store, focusing on revenue, product performance, and global trends.
+
+Task 2: Sentiment analysis of movie reviews using Natural Language Processing (NLP) techniques.
+
+# Task 1: Sales Analysis
+Description
+This project analyzes transactional sales data from a commercial chocolate store to understand business performance. It includes data cleaning, summary metrics, and insightful visualizations.
+
 ## Tools Utilized
 Python: Core programming language
 
@@ -9,19 +19,17 @@ pandas: Data loading, cleaning, and analysis
 
 matplotlib: Visualizing trends and comparisons
 
-## Task Description
-The analysis covers:
+## Key Steps
+Data Cleaning: Converted date fields and cleaned currency values.
 
-Data Cleaning: Converts dates and currency strings to usable formats.
+Total Revenue & Units Sold: Calculated key financial and operational metrics.
 
-Total Revenue & Units: Calculates overall financial and shipment performance.
+Top 5 Products: Identified and visualized the highest-selling chocolates.
 
-Top 5 Products: Finds and plots best-selling chocolate products.
+Country-Wise Sales: Mapped out international performance.
 
-Country-Wise Sales: Shows how sales are distributed globally.
+Monthly Trends: Charted revenue trends over time.
 
-Monthly Trends: Displays revenue patterns across months using a line chart.
-
-## Conclusion
-This project demonstrates how Python can be effectively used for real-world data analysis and business reporting. It gives a hands-on experience with data wrangling, aggregation, and visualization—making it ideal for students or beginners aiming to enter data analytics.
+## Outcome
+This analysis offers a snapshot of product popularity, seasonal performance, and geographical trends—essential for decision-making in retail.
 
